@@ -1,10 +1,5 @@
 # Technologies Used: Build Chat App with React, Nodejs,  MongoDB (2024)
 
-## Table of Contents
-- [About](#about)
-- [Installation](#installation)
-- [Run Command](#run-command)
-- [Env Files](#env-files)
 
 
 ## About
@@ -32,6 +27,6 @@ FRONTEND_URL=http://localhost:5173/
 
 JWT_SECRET_KEY=
 
-### Backend .env file
+### Frontend .env file
 VITE_APP_BACKEND_URL=http://localhost:7000
 
