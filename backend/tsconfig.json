@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es6",                                  // or "es2015"
+      "module": "commonjs",                             // CommonJS module system
+      "moduleResolution": "node",                       // Resolve modules similar to Node.js
+      "esModuleInterop": true,                          // For compatibility with CommonJS modules
+      "allowSyntheticDefaultImports": true,             // Allow default imports from modules without default exports
+      "strict": true,                                  // Enable all strict type-checking options
+      "forceConsistentCasingInFileNames": true,         // Ensure consistent casing in filenames
+      "skipLibCheck": true,                             // Skip type checking of declaration files
+      "outDir": "./dist",                               // Output directory for compiled files
+      "rootDir": "./src"                                // Root directory of source files
+    },
+    "include": ["src/**/*.ts"],                         // Include all TypeScript files in src
+    "exclude": ["node_modules"]                         // Exclude node_modules
+  }
+  
