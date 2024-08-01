@@ -1,16 +1,15 @@
-# **Technologies Used**: Build Chat App with React, Nodejs,  MongoDB (2024)
+# Technologies Used: Build Chat App with React, Nodejs,  MongoDB (2024)
 
-## **Table of Content**
+## Table of Contents
 - [About](#about)
 - [Installation](#installation)
-- [Run command](#run-command)
-- [Env files](#env-files)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Run Command](#run-command)
+- [Env Files](#env-files)
+
 
 ## About
 Developed an application to manage conferences. Users are able to register for conferences, view schedules, and submit feedback. Admins are able to manage conference details and registrations. Save all data to a database.
+
 ## Installation
 
 Instructions on how to install the project.
@@ -19,13 +18,13 @@ Instructions on how to install the project.
 npm install
 
 ```
-## Run command
+## Run Command
 ```bash
 npm run dev
 
 ```
 
-## Env files
+## Env Files
 ### Backend .env file
 MONGODB_CONNECTION_STRING=
 
